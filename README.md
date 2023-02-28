@@ -1,6 +1,7 @@
 # tf-handson
 初心者向けterraformハンズオン用リポジトリ
-[Terraformハンズオン](https://mmmcorp.esa.io/posts/4476)
+
+https://p-corporate-blog-cms.mmmcorp.co.jp/blog/2022/09/20/terraform-handson/
 
 # 環境構築
 
